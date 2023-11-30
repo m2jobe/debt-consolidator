@@ -20,7 +20,7 @@ Due to CRA template limitations (we can change only `scripts` and `dependencies`
 
 ## Redux configuration
 
-Using basic Redux configuration with [feature based](https://redux.js.org/style-guide/style-guide/#structure-files-as-feature-folders-or-ducks) folder structure. You can use [Redux devtools browser extension](http://extension.remotedev.io/). Note technology agnostic `features` folder name. Based on Redux maintainers recommendation.
+Using basic Redux configuration with [feature based](https://redux.js.org/style-guide/style-guide/#structure-files-as-feature-folders-or-ducks) folder structure. Note technology agnostic `features` folder name. Based on Redux maintainers recommendation.
 
 ## Testing
 
