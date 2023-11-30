@@ -26,9 +26,7 @@ Using basic Redux configuration with [feature based](https://redux.js.org/style-
 
 Testing is done with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
 
-## [Prettier](https://prettier.io/)
-
-I added `prettier` to force consistent formatting. Don't like trailing semicolons? Feel free to [tweak prettier rules](https://prettier.io/docs/en/configuration.html) inside `.prettierrc` file to match your code style.
+## Uses [Prettier](https://prettier.io/)
 
 ## Styles/CSS/Styling
 
