@@ -83,7 +83,7 @@ const DebtCalculator: React.FC = () => {
         <Grid item xs={3}>
           <h6>REMAINING DEBT AMOUNT</h6>
         </Grid>
-        <Grid item xs={3}>
+        <Grid item xs={2}>
           <h6>CURRENT APR</h6>
         </Grid>
         <Grid item xs={3}>
